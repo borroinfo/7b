@@ -1,0 +1,35 @@
+#inhalt {margin-left: 20px;
+			width: 75%;
+			float:left;}
+
+#container  {	width: 80%;
+				background: linear-gradient(to bottom, aqua, yellow);
+				border: 5px solid black;
+				height: 800px; 
+				margin-left: 8px;
+}
+
+
+
+#navigation { 	width: 20%;
+				background: linear-gradient(to top, grey, white);
+				border: 5px solid black;
+				float: right;
+				margin-right: -5px;
+				margin-top: -5px;
+			}
+			
+h2 { text-align: center;}
+
+a {font-size: 15px;
+		margin-left: 10px; }
+		
+		
+		
+		
+table, tr, td, th {border: 2px solid black; 
+				border-collapse: collapse;
+				padding: 5px;}
+
+
+
