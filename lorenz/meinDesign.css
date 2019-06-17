@@ -1,0 +1,34 @@
+
+/* gilt für alle h1*/
+h1 {color:black;}
+
+h2 {color:black;}
+
+/* ID für ersten Absatz */
+#ersterAbsatz {font-style:italic;}
+
+/* Class für Absätze*/
+.text {font-family: "Helvetica", sans-serif;}
+
+body{background-image:url("papyrus.png");}
+
+#numerouno {background-color:;
+width: 200px;}
+
+#numerodos {background-color:grey; color:black}
+
+#container {background:white; width:800px; height:1500px; margin-left:auto; margin-right:auto; border: solid black;}
+		
+		#nav_container {height:100px; background:grey; position:fixed; top: 10px;}
+		
+		#navigation {display:block; background:grey; height:100%; width:800px;}
+		
+		#logo {font-family:"Futura", sans-serif; font-size:40px;}
+		
+		#nav_ul {display:inline;}
+		
+		#content {padding-top:100px;}
+		
+		.nav_link {display:inline-block; background-color:grey; height:100px; width:80px; font-family:"Helvetica", sans-serif; color:black; text-decoration:none; position:relative; float:right; text-align:center;}
+		
+		.nav_link:hover   { background-color: grey; font-color: white; }
